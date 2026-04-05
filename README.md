@@ -3,7 +3,7 @@
 A powerful Python tool for scraping email addresses and profile information from GitHub repository stargazers. Built for large-scale lead generation with robust rate limiting, checkpointing, and human-like behavior patterns.
 
 ## ✨ Features
-
+       
 - **🎯 Targeted Lead Generation**: Scrape emails from stargazers of any GitHub repository
 - **🔄 Resume Capability**: Crash-safe checkpointing allows resuming interrupted scrapes
 - **🛡️ Rate Limit Protection**: Intelligent rate limit detection and automatic pauses
